@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1652364459 source:d:\s2\___\addou\musashi_apres_inchalah\musashi_apres\ai.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<string.h>
+	"AI.h"
+	"Fonctions.h"
+
+1652342962 d:\s2\___\addou\musashi_apres_inchalah\musashi_apres\ai.h
+
+1652342962 d:\s2\___\addou\musashi_apres_inchalah\musashi_apres\fonctions.h
+
+1652342960 source:d:\s2\___\addou\musashi_apres_inchalah\musashi_apres\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<string.h>
+	"AI.h"
+	"Fonctions.h"
+
+1652363351 source:d:\s2\___\addou\musashi_apres_inchalah\musashi_apres\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<string.h>
+	"AI.h"
+	"Fonctions.h"
+
+1654368886 source:c:\users\hajar\desktop\musashi_apres\musashi_apres\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<string.h>
+	"AI.h"
+	"Fonctions.h"
+
+1654210341 c:\users\hajar\desktop\musashi_apres\musashi_apres\ai.h
+
+1654368884 c:\users\hajar\desktop\musashi_apres\musashi_apres\fonctions.h
+
+1654371212 source:c:\users\hajar\desktop\musashi_apres\musashi_apres\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<string.h>
+	<windows.h>
+	"AI.h"
+	"Fonctions.h"
+	"IHM.h"
+
+1654297489 source:c:\users\hajar\desktop\musashi_apres\musashi_apres\ai.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<string.h>
+	"AI.h"
+	"Fonctions.h"
+
+1654210319 source:c:\users\hajar\desktop\musashi_apres\musashi_apres\ihm.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<string.h>
+	"AI.h"
+	"Fonctions.h"
+	"IHM.h"
+
+1654204228 c:\users\hajar\desktop\musashi_apres\musashi_apres\ihm.h
+
+1654469141 source:c:\users\oussa\onedrive\desktop\musashi_version_final\musashi_version_console\musashi_apres\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<string.h>
+	"AI.h"
+	"Fonctions.h"
+
+1654210341 c:\users\oussa\onedrive\desktop\musashi_version_final\musashi_version_console\musashi_apres\ai.h
+
+1654368884 c:\users\oussa\onedrive\desktop\musashi_version_final\musashi_version_console\musashi_apres\fonctions.h
+
+1654472989 source:c:\users\oussa\onedrive\desktop\musashi_version_final\musashi_version_console\musashi_apres\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<string.h>
+	<windows.h>
+	"AI.h"
+	"Fonctions.h"
+	"IHM.h"
+
+1654204228 c:\users\oussa\onedrive\desktop\musashi_version_final\musashi_version_console\musashi_apres\ihm.h
+
+1654382126 source:c:\users\oussa\onedrive\desktop\musashi_version_final\musashi_version_console\musashi_apres\ai.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<string.h>
+	"AI.h"
+	"Fonctions.h"
+
+1654378016 source:c:\users\oussa\onedrive\desktop\musashi_version_final\musashi_version_console\musashi_apres\ihm.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<string.h>
+	"AI.h"
+	"Fonctions.h"
+	"IHM.h"
+

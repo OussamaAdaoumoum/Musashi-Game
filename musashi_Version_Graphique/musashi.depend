@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1654215271 source:c:\users\oussa\onedrive\desktop\musashi\musashi\ai.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<string.h>
+	"AI.h"
+	"Fonctions.h"
+
+1654376966 source:c:\users\oussa\onedrive\desktop\musashi\musashi\main.c
+	<stdlib.h>
+	<stdio.h>
+	<limits.h>
+	<string.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"AI.h"
+	"Fonctions.h"
+	"IHM.h"
+
+1654215261 c:\users\oussa\onedrive\desktop\musashi\musashi\ai.h
+
+1654370512 c:\users\oussa\onedrive\desktop\musashi\musashi\fonctions.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+
+1654376159 source:c:\users\oussa\onedrive\desktop\musashi\musashi\fonctions.c
+	<stdlib.h>
+	<stdio.h>
+	<limits.h>
+	<string.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"AI.h"
+	"Fonctions.h"
+
+1654223059 c:\users\oussa\onedrive\desktop\musashi\musashi\ihm.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+
+1654376308 source:c:\users\oussa\onedrive\desktop\musashi\musashi\ihm.c
+	<stdlib.h>
+	<stdio.h>
+	<limits.h>
+	<string.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"AI.h"
+	"Fonctions.h"
+	"IHM.h"
+
+1654215271 source:c:\users\oussa\onedrive\desktop\musashi_version_final\musashi_version_graphique\ai.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<string.h>
+	"AI.h"
+	"Fonctions.h"
+
+1654215261 c:\users\oussa\onedrive\desktop\musashi_version_final\musashi_version_graphique\ai.h
+
+1654370512 c:\users\oussa\onedrive\desktop\musashi_version_final\musashi_version_graphique\fonctions.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+
+1654376159 source:c:\users\oussa\onedrive\desktop\musashi_version_final\musashi_version_graphique\fonctions.c
+	<stdlib.h>
+	<stdio.h>
+	<limits.h>
+	<string.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"AI.h"
+	"Fonctions.h"
+
+1654376308 source:c:\users\oussa\onedrive\desktop\musashi_version_final\musashi_version_graphique\ihm.c
+	<stdlib.h>
+	<stdio.h>
+	<limits.h>
+	<string.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"AI.h"
+	"Fonctions.h"
+	"IHM.h"
+
+1654223059 c:\users\oussa\onedrive\desktop\musashi_version_final\musashi_version_graphique\ihm.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+
+1654472949 source:c:\users\oussa\onedrive\desktop\musashi_version_final\musashi_version_graphique\main.c
+	<stdlib.h>
+	<stdio.h>
+	<limits.h>
+	<string.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"AI.h"
+	"Fonctions.h"
+	"IHM.h"
+

@@ -1,0 +1,39 @@
+
+
+
+
+
+
+
+
+         		       		                     __  __ _    _  _____          _____ _    _ _____ 
+         		       		                    |  \/  | |  | |/ ____|  /\    / ____| |  | |_   _|
+         		       		                    | \  / | |  | | (___   /  \  | (___ | |__| | | |  
+         		       		                    | |\/| | |  | |\___ \ / /\ \  \___ \|  __  | | |  
+         		       		                    | |  | | |__| |____) / ____ \ ____) | |  | |_| |_ 
+         		       		                    |_|  |_|\____/|_____/_/    \_\_____/|_|  |_|_____|
+                                            
+
+ 
+                                     			            	        Regles !
+                                                                                
+                                                 
+                                  ____________________________________________________________________________________________________
+                                 |                                                                                                    |
+                                 |  -1- Vous jouez la pièce du Musashi (celle au centre), c'est à vous de démarrer le jeu             |
+                                 |                                                                                                    |
+                                 |  -2- Les pièces de jeu peuvent se déplacer tout au long d'une ligne dessinée sur le plateau        |
+                                 |                                                                                                    |
+                                 |  -3- Chaque pion (Musashi ou Policier) ne peut effectuer qu’un seul déplacement par                |
+                                 |      tour (à tour de rôle)                                                                         |
+                                 |                                                                                                    |
+                                 |  -4- Vous gagnerez s’il ne reste pas assez de policiers pour l’encercler                           |
+                                 |                                                                                                    |
+                                 |  -5- Les policiers gagneront s’ils arrivent à vous encercler et à vous empêcher de bouger          |
+                                 |                                                                                                    |
+                                 |                                                                                                    |           
+                                 |____________________________________________________________________________________________________|
+
+
+
+                                                                 voulez vous revenir a l'acceuil (o/n) ? : 
